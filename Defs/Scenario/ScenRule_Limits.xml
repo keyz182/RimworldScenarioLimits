@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <ScenPartDef>
+    <defName>AllowBiome</defName>
+    <label>Allow biome</label>
+    <category>Misc</category>
+    <scenPartClass>ScenarioLimits.ScenRule_LimitAllowBiome</scenPartClass>
+  </ScenPartDef>
+  <ScenPartDef>
+    <defName>DisallowBiome</defName>
+    <label>Disallow biome</label>
+    <category>Misc</category>
+    <scenPartClass>ScenarioLimits.ScenRule_LimitDisallowBiome</scenPartClass>
+  </ScenPartDef>
+
+</Defs>
